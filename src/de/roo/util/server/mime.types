@@ -1,0 +1,865 @@
+application/vnd.gmx		 gmx 
+application/x-iphone		 iii 
+text/calendar		 ics ifb icz 
+application/vnd.ezpix-package		 ez3 
+application/scvp-vp-request		 spq 
+application/prs.cww		 cww 
+application/x-iso9660-image		 iso 
+chemical/x-ctx		 ctx 
+text/x-tcl		 tcl tk 
+text/vnd.curl.mcurl		 mcurl 
+text/vnd.sun.j2me.app-descriptor		 jad 
+video/x-f4v		 f4v 
+application/x-bdf-font		 bdf 
+application/vnd.groove-help		 ghf 
+application/relax-ng-compact-syntax		 rnc 
+video/vnd.fvt		 fvt 
+application/vnd.kde.kword		 kwd kwt 
+application/vnd.zul		 zir zirz 
+application/x-msterminal		 trm 
+text/x-setext		 etx 
+text/x-sgml		 sgml sgm 
+application/x-dvi		 dvi 
+text/troff		 t tr roff man me ms 
+application/vnd.ms-excel.template.macroenabled.12		 xltm 
+application/x-wingz		 wz 
+text/ccs		 ccs 
+application/bbolin		 lin 
+application/vnd.powerbuilder6		 pbd 
+application/vnd.fujitsu.oasys		 oas 
+video/x-ms-wmx		 wmx 
+application/vnd.sun.xml.writer		 sxw 
+video/x-ms-wmv		 wmv 
+text/x-tex		 tex ltx sty cls 
+audio/flac		 flac 
+application/x-zip-compressed		 zip 
+application/x-ns-proxy-autoconfig		 pac dat 
+application/vnd.wordperfect		 wpd 
+image/x-canon-crw		 crw 
+text/cache-manifest		 manifest 
+application/x-tex-tfm		 tfm 
+application/wspolicy+xml		 wspolicy 
+application/vnd.sus-calendar		 sus susp 
+application/vnd.syncml+xml		 xsm 
+application/x-javascript		 js 
+chemical/x-gaussian-input		 gau gjc gjf 
+application/x-mswrite		 wri 
+application/vnd.framemaker		 fm frame maker book 
+application/vnd.ms-project		 mpp mpt 
+chemical/x-ncbi-asn1-binary		 val aso 
+chemical/x-cxf		 cxf cef 
+application/x-msmetafile		 wmf 
+text/x-python		 py 
+application/x-framemaker		 fm mif 
+text/x-compress-html		 html.z 
+application/vnd.contact.cmsg		 cdbcmsg 
+application/vnd.trid.tpt		 tpt 
+chemical/x-mdl-rdfile		 rd 
+application/vnd.shana.informed.formdata		 ifm 
+application/x-bittorrent		 torrent 
+application/vnd.chipnuts.karaoke-mmd		 mmd 
+application/srgs		 gram 
+text/scriptlet		 sct wsc 
+chemical/x-mdl-molfile		 mol 
+application/vnd.uoml+xml		 uoml 
+application/pkixcmp		 pki 
+application/vnd.visio		 vsd vst vss vsw 
+application/x-tex-pk		 pk 
+application/vnd.kodak-descriptor		 sse 
+application/ogg		 ogx 
+application/vnd.picsel		 efif 
+image/vnd.wap.wbmp		 wbmp 
+application/x-msi		 msi 
+application/x-ksh		 ksh 
+application/atomsvc+xml		 atomsvc 
+application/x-object		 o 
+application/vnd.shana.informed.formtemplate		 itp 
+application/vnd.symbian.install		 sis sisx 
+text/vnd.wap.wmlscript		 wmls 
+application/vnd.mcd		 mcd 
+application/postscript		 ai eps ps epsi epsf eps2 eps3 
+image/x-portable-pixmap		 ppm 
+application/x-authorware-bin		 aab x32 u32 vox 
+application/vnd.syncml.dm+xml		 xdm 
+video/x-ms-asf		 asf asx 
+application/patch-ops-error+xml		 xer 
+chemical/x-mol2		 mol2 
+application/vnd.oasis.opendocument.presentation-template		 otp 
+application/vnd.solent.sdkm+xml		 sdkm sdkd 
+application/x-kpresenter		 kpr kpt 
+application/ssml+xml		 ssml 
+application/vnd.kidspiration		 kia 
+application/x-adobe-font-metric		 afm 
+application/vnd.yamaha.hv-dic		 hvd 
+application/vnd.lotus-freelance		 prz pre 
+application/vnd.crick.clicker.template		 clkt 
+application/x-rar-compressed		 rar 
+application/shf+xml		 shf 
+application/x-java-class		 class 
+application/x-doom		 wad 
+application/vnd.yamaha.openscoreformat		 osf 
+application/vnd.syncml.dm+wbxml		 bdm 
+application/javascript		 js 
+chemical/x-mdl-rxnfile		 rxn 
+application/atomserv+xml		 atomsrv 
+audio/x-aiff		 aif aiff aifc 
+application/vnd.hp-pcl		 pcl 
+application/x-pkcs7-crl		 crl 
+model/vnd.gtw		 gtw 
+image/x-cgm		 cgm 
+application/vnd.stardivision.chart		 sds 
+image/vnd.fujixerox.edmics-mmr		 mmr 
+audio/mpeg		 mpga mp2 mp2a mp3 m2a m3a mpega m4a 
+application/x-font-snf		 snf 
+application/vnd.hydrostatix.sof-data		 sfd-hdstx 
+application/vnd.kenameaapp		 htke 
+application/vnd.nokia.radio-preset		 rpst 
+text/x-asm		 s asm 
+chemical/x-cml		 cml 
+application/vnd.sun.xml.draw		 sxd 
+text/x-perl		 pl pm 
+application/octet-stream		 bin com dms lha lrf lzh so iso dmg dist distz pkg bpk dump elc deploy 
+application/vnd.webturbo		 wtb 
+image/vnd.xiff		 xif 
+text/x-sh		 sh 
+application/vnd.enliven		 nml 
+application/x-python-code		 pyc pyo 
+application/m3g		 m3g 
+application/pgp-signature		 asc sig pgp 
+application/vnd.ms-access		 mdb mda mde 
+chemical/x-mdl-sdf		 sdf 
+application/x-httpd-cgi		 cgi 
+application/x-dms		 dms 
+application/x-pkcs7-certificates		 p7b spc 
+application/vnd.ms-word.document.macroenabled.12		 docm 
+application/x-wais-source		 src 
+application/vnd.ms-artgalry		 cil 
+application/x-quicktimeplayer		 qtl 
+audio/x-pn-realaudio		 ram rpm ra rm 
+application/vnd.oasis.opendocument.spreadsheet-template		 ots 
+text/vnd.in3d.spot		 spot 
+application/vnd.ms-lrm		 lrm 
+chemical/x-cactvs-binary		 cbin cascii ctab 
+image/x-ms-bmp		 bmp 
+application/java-serialized-object		 ser 
+application/x-msaccess		 mdb 
+application/vnd.stardivision.draw		 sda 
+video/vnd.viv		 viv 
+application/x-matlab		 m 
+video/x-m4v		 m4v 
+application/vnd.joost.joda-archive		 joda 
+application/x-kspread		 ksp 
+audio/annodex		 axa 
+application/davmount+xml		 davmount 
+application/vnd.igloader		 igl 
+chemical/x-cmdf		 cmdf 
+video/x-acad-anim		 fli 
+application/vnd.adobe.xfdf		 xfdf 
+image/x-portable-bitmap		 pbm 
+application/zip		 zip 
+application/x-pkcs12		 p12 pfx 
+text/x-component		 htc 
+chemical/x-pdb		 pdb ent 
+application/xop+xml		 xop 
+application/andrew-inset		 ez 
+video/dv		 dif dv 
+application/x-msschedule		 scd 
+application/x-mobipocket-ebook		 prc mobi 
+application/x-java-jnlp-file		 jnlp 
+application/vnd.epson.salt		 slt 
+image/x-coreldrawtemplate		 cdt 
+application/x-lharc		 lha 
+application/vnd.anser-web-funds-transfer-initiation		 fti 
+video/dl		 dl 
+application/vnd.chemdraw+xml		 cdxml 
+application/x-gzip-tar		 tar.gz tgz 
+application/vnd.kde.kpresenter		 kpr kpt 
+application/xspf+xml		 xspf 
+application/x-pkcs7-signature		 p7s 
+application/vnd.publishare-delta-tree		 qps 
+application/x-maker		 frm maker frame fm fb book fbdoc 
+audio/x-pn-realaudio-plugin		 rmp 
+application/pkcs7-signature		 p7s 
+image/x-olympus-orf		 orf 
+video/gl		 gl 
+image/x-epson-erf		 erf 
+application/vnd.irepository.package+xml		 irp 
+image/prs.btif		 btif 
+image/x-gzip-xpixmap		 xpm.gz 
+audio/x-ms-wma		 wma 
+application/mac-binhex40		 hqx 
+application/vnd.curl.car		 car 
+application/vnd.openxmlformats-officedocument.wordprocessingml.document		 docx 
+application/mp4		 mp4s 
+application/vnd.oasis.opendocument.presentation		 odp 
+model/x3d+vrml		 x3dv 
+application/vnd.spotfire.dxp		 dxp 
+application/vnd.groove-injector		 grv 
+chemical/x-chem3d		 c3d 
+application/ecmascript		 ecma es 
+image/x-cmx		 cmx 
+application/rdf+xml		 rdf 
+application/vnd.oasis.opendocument.text-web		 oth 
+application/vnd.tao.intent-module-archive		 tao 
+chemical/x-embl-dl-nucleotide		 emb embl 
+text/h323		 323 
+application/vnd.noblenet-directory		 nnd 
+application/vnd.amazon.ebook		 azw 
+application/vnd.wap.wbxml		 wbxml 
+application/vnd.ms-schedule		 scd sch sc2 
+application/vnd.mobius.mqy		 mqy 
+application/vnd.blueice.multipass		 mpm 
+application/vnd.mfer		 mwf 
+audio/x-mpegurl		 m3u 
+application/vnd.pg.format		 str 
+application/vnd.fsc.weblaunch		 fsc 
+application/x-dtbncx+xml		 ncx 
+application/x-debian-package		 deb udeb 
+image/x-canon-cr2		 cr2 
+application/vnd.pvi.ptid1		 ptid 
+text/css		 css 
+application/vnd.zzazz.deck+xml		 zaz 
+audio/vnd.digital-winds		 eol 
+text/csv		 csv 
+chemical/x-cdx		 cdx 
+application/vnd.data-vision.rdz		 rdz 
+application/x-pcf-font		 pcf 
+application/vnd.kinar		 kne knp 
+image/x-cmu-raster		 ras 
+application/x-gtar		 gtar tgz taz 
+application/vnd.groove-tool-template		 tpl 
+application/vnd.quark.quarkxpress		 qxd qxt qwd qwt qxl qxb 
+chemical/x-gaussian-log		 gal 
+application/x-dtbook+xml		 dtb 
+audio/vnd.ms-playready.media.pya		 pya 
+application/vnd.lotus-wordpro		 lwp sam 
+application/x-cab		 cab 
+text/x-bibtex		 bib 
+chemical/x-compass		 cpa 
+image/vnd.ms-modi		 mdi 
+text/x-pcs-gcd		 gcd 
+application/set-registration-initiation		 setreg 
+chemical/x-macromodel-input		 mmd mmod 
+application/x-info		 info 
+chemical/x-gaussian-checkpoint		 fch fchk 
+application/vnd.3m.post-it-notes		 pwn 
+chemical/x-gaussian-cube		 cub 
+application/vnd.intu.qbo		 qbo 
+application/vnd.openxmlformats-officedocument.wordprocessingml.template		 dotx 
+chemical/x-xtel		 xtel 
+video/h263		 h263 
+video/h261		 h261 
+application/vnd.oma.dd2+xml		 dd2 
+application/x-mif		 mif 
+video/h264		 h264 
+application/x-bzip		 bz 
+application/x-shockwave-flash		 swf swfl 
+application/vnd.grafeq		 gqf gqs 
+application/x-c		 c h 
+audio/ogg		 oga ogg spx 
+application/vnd.ms-fontobject		 eot 
+application/x-internet-signup		 ins isp 
+application/vnd.ms-pki.seccat		 cat 
+application/vnd.epson.ssf		 ssf 
+application/pkcs7-mime		 p7m p7c 
+application/pgp-keys		 key 
+image/bmp		 bmp 
+application/vnd.kde.kivio		 flw 
+audio/vnd.nuera.ecelp7470		 ecelp7470 
+application/vnd.seemail		 see 
+application/vnd.groove-vcard		 vcg 
+chemical/x-cif		 cif 
+image/vnd.djvu		 djvu djv 
+text/prs.lines.tag		 dsc 
+application/vnd.pocketlearn		 plf 
+application/xhtml+xml		 xhtml xht 
+application/x-cdf		 cdf cda 
+application/vnd.fuzzysheet		 fzs 
+application/pls+xml		 pls 
+application/vnd.ms-wpl		 wpl 
+image/png		 png 
+application/mxf		 mxf 
+text/x-uuencode		 uu 
+application/vnd.fujitsu.oasys3		 oa3 
+model/x3d+binary		 x3db 
+text/x-moc		 moc 
+application/vnd.ms-ims		 ims 
+application/vnd.epson.esf		 esf 
+application/vnd.fujitsu.oasys2		 oa2 
+image/x-photoshop		 psd 
+application/x-koan		 skp skd skt skm 
+application/vnd.lotus-approach		 apr vew 
+application/pics-rules		 prf 
+text/x-pascal		 p pas 
+application/vnd.oasis.opendocument.chart		 odc 
+model/iges		 igs iges 
+image/x-xbitmap		 xbm 
+application/vnd.kde.kspread		 ksp 
+application/vnd.immervision-ivp		 ivp 
+application/x-ica		 ica 
+application/rsd+xml		 rsd 
+text/sgml		 sgml sgm 
+chemical/x-mmcif		 mcif 
+application/x-cbr		 cbr 
+application/vnd.curl.pcurl		 pcurl 
+application/vnd.immervision-ivu		 ivu 
+application/vnd.ecowin.chart		 mag 
+application/vnd.openxmlformats-officedocument.presentationml.presentation		 pptx 
+image/vnd.net-fpx		 npx 
+application/vnd.intu.qfx		 qfx 
+application/vnd.jam		 jam 
+text/x-boo		 boo 
+application/vnd.lotus-organizer		 or3 or2 org 
+application/mathematica		 ma nb mb nbp 
+audio/vnd.dts		 dts 
+application/vnd.ibm.minipay		 mpy 
+application/vnd.yamaha.hv-voice		 hvp 
+application/set-payment-initiation		 setpay 
+application/vnd.uiq.theme		 utz 
+application/vnd.fujixerox.ddd		 ddd 
+application/vnd.ms-powerpoint.slideshow.macroenabled.12		 ppsm 
+application/x-font-linux-psf		 psf 
+application/vnd.mfmp		 mfm 
+audio/basic		 au snd 
+video/mpeg		 mpeg mpg mpe m2v m1v mp2 mpv2 mp2v 
+application/vnd.mophun.application		 mpn 
+audio/vnd.nuera.ecelp9600		 ecelp9600 
+application/x-cbz		 cbz 
+application/vnd.fujitsu.oasysgp		 fg5 
+application/x-bcpio		 bcpio 
+video/x-mng		 mng 
+application/x-emacs-lisp		 el elc 
+application/vnd.llamagraphics.life-balance.exchange+xml		 lbe 
+application/scvp-vp-response		 spp 
+text/x-c++hdr		 h++ hpp hxx hh 
+application/vnd.oasis.opendocument.image-template		 oti 
+application/vnd.oasis.opendocument.chart-template		 otc 
+application/vnd.oasis.opendocument.formula		 odf 
+image/vnd.fpx		 fpx 
+application/atom+xml		 atom 
+application/vnd.cosmocaller		 cmc 
+text/x-java-source		 java 
+text/x-java		 java 
+message/rfc822		 mht mhtml eml mime 
+x-conference/x-cooltalk		 ice 
+application/vnd.noblenet-sealer		 nns 
+application/xml		 xml xsl xsd 
+application/x-redhat-package-manager		 rpm 
+application/vnd.simtech-mindmapper		 twd twds 
+application/vnd.medcalcdata		 mc1 
+text/vnd.fmi.flexstor		 flx 
+application/vnd.oasis.opendocument.graphics-template		 otg 
+application/vnd.oasis.opendocument.image		 odi 
+application/vnd.ms-cab-compressed		 cab 
+application/vnd.dynageo		 geo 
+application/vnd.wqd		 wqd 
+application/x-httpd-php		 phtml pht php 
+br>image/x-photo-cd		 pcd 
+chemical/x-crossfire		 bsd 
+application/vnd.openofficeorg.extension		 oxt 
+application/vnd.visionary		 vis 
+application/x-kword		 kwd kwt 
+application/vnd.pg.osasli		 ei6 
+text/uri-list		 uri uris urls 
+text/vnd.curl.dcurl		 dcurl 
+application/vnd.handheld-entertainment+xml		 zmm 
+chemical/x-mopac-graph		 gpt 
+application/vnd.ms-pki.stl		 stl 
+application/vnd.groove-identity-message		 gim 
+video/x-ms-wvx		 wvx 
+application/x-sv4cpio		 sv4cpio 
+application/vnd.eszigno3+xml		 es3 et3 
+application/vnd.umajin		 umj 
+text/x-haskell		 hs 
+application/pdf		 pdf 
+application/vnd.mediastation.cdkey		 cdkey 
+application/vnd.groove-tool-message		 gtm 
+application/x-lyx		 lyx 
+chemical/x-mdl-sdfile		 sd sdf 
+application/x-bzip2		 bz2 boz 
+application/vnd.yamaha.smaf-phrase		 spf 
+application/vnd.sun.xml.calc		 sxc 
+chemical/x-kinemage		 kin 
+application/rar		 rar 
+text/x-vcalendar		 vcs 
+application/x-stuffitx		 sitx 
+application/x-director		 dcr dir dxr cst cct cxt w3d fgd swa 
+application/vnd.3gpp.pic-bw-large		 plb 
+application/x-msmediaview		 mvb m13 m14 
+application/vnd.olpc-sugar		 xo 
+text/x-server-parsed-html		 shtml sht 
+text/html		 html htm shtml 
+application/x-rtf		 rtf 
+application/pkix-cert		 cer 
+application/x-freemind		 mm 
+image/vnd.adobe.photoshop		 psd 
+application/vnd.amiga.ami		 ami 
+application/vnd.sun.xml.calc.template		 stc 
+video/jpeg		 jpgv 
+application/vnd.commonspace		 csp 
+application/x-tex-gf		 gf 
+image/vnd.fujixerox.edmics-rlc		 rlc 
+application/msaccess		 mdb 
+image/pcx		 pcx 
+application/vnd.geometry-explorer		 gex gre 
+model/x3d+xml		 x3d 
+application/x-silverlight		 scr 
+application/x-msdownload		 exe dll com bat msi 
+application/vnd.smaf		 mmf 
+application/vnd.audiograph		 aep 
+application/x-xpinstall		 xpi 
+text/x-scala		 scala 
+chemical/x-gamess-input		 inp gam gamin 
+application/vnd.kde.kchart		 chrt 
+application/vnd.anser-web-certificate-issue-initiation		 cii 
+application/resource-lists+xml		 rl 
+chemical/x-mdl-rxn		 rxn 
+application/vnd.route66.link66+xml		 link66 
+application/x-lzx		 lzx 
+application/vnd.mobius.mbk		 mbk 
+application/x-msmoney		 mny 
+application/hyperstudio		 stk 
+text/webviewhtml		 htt 
+application/vnd.ufdl		 ufd ufdl 
+application/vnd.fdsn.mseed		 mseed 
+application/vnd.fluxtime.clip		 ftc 
+application/x-abiword		 abw 
+application/vnd.apple.installer+xml		 mpkg 
+application/x-lzh		 lzh 
+application/vnd.ibm.modcap		 afp listafp list3820 
+application/atomcat+xml		 atomcat 
+audio/vnd.nuera.ecelp4800		 ecelp4800 
+application/vnd.smart.teacher		 teacher 
+application/x-csh		 csh 
+application/vnd.vcx		 vcx 
+application/vnd.hp-hps		 hps 
+application/reginfo+xml		 rif 
+application/vnd.arastra.swi		 swi 
+chemical/x-galactic-spc		 spc 
+text/vnd.in3d.3dml		 3dml 
+audio/x-sd2		 sd2 
+text/x-diff		 diff patch 
+chemical/x-mopac-vib		 mvb 
+application/x-compress		 z 
+application/vnd.ms-xpsdocument		 xps 
+application/vnd.iccprofile		 icc icm 
+audio/amr		 amr 
+application/vnd.xara		 xar 
+application/dsptype		 tsp 
+application/vnd.mozilla.xul+xml		 xul 
+application/rtf		 rtf 
+chemical/x-xyz		 xyz 
+chemical/x-isostar		 istr ist 
+application/x-ps-pdf		 ppd 
+audio/adpcm		 adp 
+application/pgp-encrypted		 pgp 
+application/x-truetype-font		 ttf 
+application/vnd.fdsn.seed		 seed dataless 
+application/vnd.bmi		 bmi 
+video/mj2		 mj2 mjp2 
+video/x-msvideo		 avi 
+application/vnd.lotus-screencam		 scm 
+application/vnd.jisp		 jisp 
+chemical/x-molconn-Z		 b 
+image/x-jng		 jng 
+application/x-openwin-font		 f3b 
+application/vnd.ms-powerpoint.presentation.macroenabled.12		 pptm 
+application/vnd.ms-excel.sheet.macroenabled.12		 xlsm 
+application/vnd.hzn-3d-crossword		 x3d 
+application/vnd.openxmlformats-officedocument.spreadsheetml.template		 xltx 
+model/mesh		 msh mesh silo 
+text/richtext		 rtx 
+application/vnd.stardivision.impress		 sdd 
+video/3gpp		 3gp 
+application/xenc+xml		 xenc 
+application/vnd.frogans.ltf		 ltf 
+application/x-troff-man		 man 1 2 3 4 5 6 7 8 9 l n 
+application/x-httpd-php3-preprocessed		 php3p 
+video/quicktime		 qt mov 
+audio/mp4		 mp4a 
+text/x-c++src		 c++ cpp cxx cc 
+application/vnd.nokia.radio-presets		 rpss 
+application/xml-dtd		 dtd 
+application/vnd.mseq		 mseq 
+application/x-go-sgf		 sgf 
+application/vnd.kde.kontour		 kon 
+application/vnd.ms-powerpoint.slide.macroenabled.12		 sldm 
+application/x-chess-pgn		 pgn 
+application/winhlp		 hlp 
+application/vnd.antix.game-component		 atx 
+application/x-font-ttf		 ttf ttc 
+application/vnd.oasis.opendocument.formula-template		 odft 
+application/x-sh		 sh shar 
+text/mathml		 mml 
+application/x-font-otf		 otf 
+application/x-netcdf		 nc cdf 
+audio/x-aac		 aac 
+application/vnd.openxmlformats-officedocument.presentationml.slide		 sldx 
+chemical/x-rosdal		 ros 
+application/vnd.sun.xml.impress.template		 sti 
+chemical/x-cache-csf		 csf 
+application/pgp		 pgp asc 
+applvication/x-cplusplus		 cc c++ cpp hpp hxx cxx 
+application/x-fortezza-ckl		 ckl 
+video/x-matroska		 mpv mkv 
+x-epoc/x-sisx-app		 sisx 
+application/vnd.svd		 svd 
+text/vnd.fly		 fly 
+application/x-patch		 patch diff 
+application/vnd.nokia.n-gage.data		 ngdat 
+application/x-pkcs7-mime		 p7m p7c 
+application/x-jmol		 jmz 
+application/vnd.yamaha.smaf-audio		 saf 
+application/x-gnumeric		 gnumeric 
+application/vnd.tmobile-livetv		 tmo 
+text/x-vcard		 vct vcf 
+application/vnd.yellowriver-custom-menu		 cmp 
+image/x-xpixmap		 xpm 
+video/fli		 fli 
+application/x-conference		 nsc 
+application/vnd.dreamfactory		 dfac 
+application/x-font		 pfa pfb gsf pcf pcf.Z 
+image/vnd.fst		 fst 
+application/vnd.mobius.dis		 dis 
+application/x-ms-xbap		 xbap 
+model/vnd.dwf		 dwf 
+text/vnd.wap.wml		 wml 
+audio/x-scpls		 pls 
+application/vnd.oasis.opendocument.text		 odt 
+application/vnd.ezpix-album		 ez2 
+image/x-pcx		 pcx 
+application/vnd.triscape.mxs		 mxs 
+application/vnd.3gpp.pic-bw-small		 psb 
+application/vnd.novadigm.ext		 ext 
+application/x-qgis		 qgs shp shx 
+text/vnd.curl.scurl		 scurl 
+application/x-silverlight-app		 xap 
+audio/x-realaudio		 ra 
+application/x-httpd-eruby		 rhtml 
+application/resource-lists-diff+xml		 rld 
+application/vnd.sun.xml.draw.template		 std 
+application/vnd.ctc-posml		 pml 
+application/ccxml+xml		 ccxml 
+application/annodex		 anx 
+application/x-font-ghostscript		 gsf 
+chemical/x-chemdraw		 chm 
+application/vnd.claymore		 cla 
+application/vnd.acucorp		 atc acutc 
+application/vnd.wt.stf		 stf 
+application/vnd.ibm.rights-management		 irm 
+application/x-speech		 spc 
+application/x-nwc		 nwc 
+application/vnd.hp-hpid		 hpid 
+application/vnd.dpgraph		 dpg 
+application/vnd.google-earth.kml+xml		 kml 
+application/cu-seeme		 cu 
+application/vnd.criticaltools.wbs+xml		 wbs 
+application/vnd.kde.kformula		 kfo 
+application/vnd.cups-ppd		 ppd 
+application/x-authorware-seg		 aas 
+model/vnd.mts		 mts 
+application/x-ms-wmd		 wmd 
+application/x-x509-ca-cert		 der crt 
+application/vnd.musician		 mus 
+application/x-httpd-php-source		 phps 
+application/x-xfig		 fig 
+application/vnd.mophun.certificate		 mpc 
+application/x-7z-compressed		 7z 
+audio/x-gsm		 gsm 
+application/voicexml+xml		 vxml 
+application/vnd.noblenet-web		 nnw 
+model/vrml		 wrl vrml 
+model/vnd.vtu		 vtu 
+application/vnd.hp-hpgl		 hpgl 
+application/x-troff-ms		 ms 
+chemical/x-mdl-rdf		 rdf 
+application/vnd.wordperfect5.1		 wp5 
+application/vnd.fujitsu.oasysprs		 bh2 
+image/x-rgb		 rgb 
+application/vnd.koan		 skp skd skt skm 
+application/vnd.hhe.lesson-player		 les 
+application/hta		 hta 
+application/x-troff-me		 me 
+application/vnd.hp-jlyt		 jlt 
+application/x-pkcs7-certreqresp		 p7r 
+image/x-nikon-nef		 nef 
+application/vnd.yamaha.hv-script		 hvs 
+application/vnd.recordare.musicxml		 mxl 
+application/vnd.macports.portpkg		 portpkg 
+application/vnd.ms-works		 wps wks wcm wdb 
+application/xv+xml		 mxml xhvml xvml xvm 
+text/vnd.graphviz		 gv 
+application/oebps-package+xml		 opf 
+application/vnd.dolby.mlp		 mlp 
+application/x-javascript-config		 jsc 
+application/x-perl		 pl pm 
+application/vnd.rim.cod		 cod 
+audio/vnd.lucent.voice		 lvp 
+application/vnd.intercon.formnet		 xpw xpx 
+application/vnd.neurolanguage.nlu		 nlu 
+application/vnd.adobe.air-application-installer-package+zip		 air 
+video/jpm		 jpm jpgm 
+chemical/x-vamas-iso14976		 vms 
+application/vnd.sun.xml.math		 sxm 
+application/x-mscardfile		 crd 
+application/x-authorware-map		 aam 
+application/vnd.fujixerox.docuworks.binder		 xbd 
+application/vnd.dna		 dna 
+application/vnd.osgi.dp		 dp 
+application/vnd.sun.xml.impress		 sxi 
+application/x-msbinder		 obd 
+application/marc		 mrc 
+application/applixware		 aw 
+application/vnd.oasis.opendocument.database		 odb 
+application/x-sv4crc		 sv4crc 
+text/x-fortran		 f for f77 f90 
+application/srgs+xml		 grxml 
+application/vnd.micrografx.igx		 igx 
+application/vnd.groove-account		 gac 
+application/x-x509-ca-cent		 cer crt der 
+chemical/x-daylight-smiles		 smi 
+application/vnd.nokia.n-gage.symbian.install		 n-gage 
+video/mp4		 mp4 mp4v mpg4 
+application/vnd.cinderella		 cdy 
+application/vnd.mobius.plc		 plc 
+chemical/x-mdl-tgf		 tgf 
+application/vnd.lotus-notes		 nsf 
+application/x-latex		 latex 
+application/vnd.stardivision.writer-global		 sgl 
+application/vnd.mobius.daf		 daf 
+application/x-lha		 lha 
+application/x-ms-wmz		 wmz 
+application/x-kchart		 chrt 
+video/x-grasp		 gl 
+application/vnd.genomatix.tuxedo		 txd 
+application/vnd.wap.wmlc		 wmlc 
+application/x-gzip		 gz 
+application/font-tdpfr		 pfr 
+application/sparql-query		 rq 
+audio/x-mpeg		 mpa abs mpega 
+image/x-corelphotopaint		 cpt 
+text/x-chdr		 h 
+application/x-cpio		 cpio 
+application/vnd.3gpp.pic-bw-var		 pvb 
+application/x-futuresplash		 spl 
+image/x-jg		 art 
+application/x-dtbresource+xml		 res 
+text/iuls		 uls 
+application/vnd.rn-realmedia		 rm 
+application/vnd.geogebra.file		 ggb 
+application/vnd.ms-excel		 xlb xls xlm xla xlc xlt xlw 
+application/vnd.americandynamics.acc		 acc 
+application/smil+xml		 smi smil 
+image/tiff		 tiff tif 
+application/vnd.vsf		 vsf 
+application/x-tex		 tex latex 
+application/vnd.android.package-archive		 apk 
+application/vnd.ibm.secure-container		 sc 
+application/x-killustrator		 kil 
+application/vnd.sun.xml.writer.global		 sxg 
+application/pre-encrypted		 enc 
+application/mbox		 mbox 
+chemical/x-csml		 csml csm 
+text/vnd.curl		 curl 
+application/rls-services+xml		 rs 
+image/vnd.dxf		 dxf 
+application/x-hdf		 hdf 
+chemical/x-hin		 hin 
+application/x-apple-diskimage		 dmg 
+application/mediaservercontrol+xml		 mscml 
+application/vnd.xfdl		 xfdl 
+application/vnd.crick.clicker.palette		 clkp 
+application/vnd.llamagraphics.life-balance.desktop		 lbd 
+application/mathml+xml		 mathml 
+application/x-123		 wk 
+application/vnd.businessobjects		 rep 
+application/sdp		 sdp 
+audio/x-wav		 wav 
+chemical/x-mopac-input		 mop mopcrt mpc zmt 
+application/vnd.frogans.fnc		 fnc 
+application/xslt+xml		 xslt 
+application/vnd.crick.clicker.keyboard		 clkk 
+text/x-literate-haskell		 lhs 
+image/vnd.dwg		 dwg 
+application/vnd.openxmlformats-officedocument.presentationml.template		 potx 
+application/vnd.trueapp		 tra 
+application/vnd.mobius.msl		 msl 
+application/x-tcl		 tcl 
+application/pkix-pkipath		 pkipath 
+video/3gpp2		 3g2 
+application/vnd.novadigm.edm		 edm 
+application/vnd.yamaha.openscoreformat.osfpvg+xml		 osfpvg 
+audio/x-ms-wax		 wax 
+application/x-trash		 ~ % bak old sik 
+application/x-httpd-php5		 php5 
+application/x-httpd-php4		 php4 
+application/x-httpd-php3		 php3 
+application/vnd.previewsystems.box		 box 
+application/x-texinfo		 texinfo texi 
+application/vnd.clonk.c4group		 c4g c4d c4f c4p c4u 
+application/x-xcf		 xcf 
+image/x-gzip-xbitmap		 xbm.gz 
+image/x-hpgl		 hpgl hpg 
+application/vnd.mobius.txf		 txf 
+image/svg+xml		 svg svgz 
+application/java-vm		 class 
+application/vnd.recordare.musicxml+xml		 musicxml 
+application/vnd.oasis.opendocument.text-master		 otm odm 
+application/vnd.epson.msf		 msf 
+application/vnd.ms-powerpoint.template.macroenabled.12		 potm 
+application/vnd.proteus.magazine		 mgz 
+application/vnd.ms-word.template.macroenabled.12		 dotm 
+application/x-font-type1		 pfa pfb pfm afm 
+application/futuresplash		 spl 
+image/x-portable-graymap		 pgm 
+application/x-tar		 tar gtar ustar 
+application/vnd.unity		 unityweb 
+application/vnd.sema		 sema 
+video/vnd.mpegurl		 mxu m4u 
+application/vnd.semd		 semd 
+application/vnd.semf		 semf 
+application/mac-compactpro		 cpt 
+application/vnd.jcp.javame.midlet-rms		 rms 
+image/ief		 ief 
+chemical/x-ncbi-asn1-ascii		 prt ent 
+application/vnd.novadigm.edx		 edx 
+application/sbml+xml		 sbml 
+application/macwriteii		 wri 
+audio/midi		 mid midi kar rmi 
+application/x-chat		 chat 
+application/vnd.micrografx.flo		 flo 
+application/x-jam		 jam 
+image/jpeg		 jpeg jpg jpe 
+application/pkix-crl		 crl 
+audio/mpegurl		 m3u 
+video/x-fli		 fli 
+application/vnd.hp-pclxl		 pclxl 
+application/x-cdlink		 vcd 
+image/x-freehand		 fh fhc fh4 fh5 fh7 
+video/x-ms-wm		 wm 
+application/vnd.stardivision.calc		 sdc 
+application/scvp-cv-response		 scs 
+application/vnd.airzip.filesecure.azf		 azf 
+application/x-oz-application		 oza 
+chemical/x-ncbi-asn1-spec		 asn 
+text/x-csh		 csh 
+video/x-dl		 dl 
+image/x-pict		 pic pct 
+application/vnd.airzip.filesecure.azs		 azs 
+chemical/x-gcg8-sequence		 gcg 
+application/x-ace-compressed		 ace 
+text/texmacs		 tm ts 
+application/x-ustar		 ustar 
+text/x-csrc		 c 
+chemical/x-cerius		 cer 
+image/x-fits		 fts fits fit 
+image/x-coreldrawpattern		 pat 
+application/x-font-bdf		 bdf 
+application/x-font-pcf		 pcf 
+application/vnd.spotfire.sfs		 sfs 
+image/cgm		 cgm 
+image/x-coreldraw		 cdr 
+text/tab-separated-values		 tsv 
+application/onenote		 onetoc onetoc2 onetmp onepkg 
+application/vnd.stardivision.math		 smf sdf 
+application/vnd.geogebra.tool		 ggt 
+application/vnd.muvee.style		 msty 
+application/x-netgravity		 ng 
+audio/amr-wb		 awb 
+application/vnd.flographit		 gph 
+application/vnd.ms-powerpoint		 ppa ppt pps pot pwz 
+application/x-arj		 arj 
+application/x-troff		 t tr roff 
+image/gif		 gif 
+chemical/x-mopac-out		 moo 
+application/vnd.sun.xml.writer.template		 stw 
+image/x-portable-anymap		 pnm 
+application/vnd.is-xpr		 xpr 
+audio/vnd.dts.hd		 dtshd 
+application/vnd.epson.quickanime		 qam 
+application/vnd.accpac.simply.aso		 aso 
+x-world/x-vrml		 wrl vrml vrm 
+chemical/x-swissprot		 sw 
+image/g3fax		 g3 
+application/rss+xml		 rss 
+application/vnd.oasis.opendocument.graphics		 odg 
+audio/prs.sid		 sid 
+application/x-msdos-program		 com exe bat dll 
+application/vnd.ms-htmlhelp		 chm 
+application/json		 json 
+video/x-la-asf		 lsf lsx 
+application/vnd.openxmlformats-officedocument.presentationml.slideshow		 ppsx 
+application/x-mspublisher		 pub 
+application/vnd.kde.karbon		 karbon 
+application/x-ms-application		 application 
+audio/x-cda		 cda 
+application/vnd.adobe.xdp+xml		 xdp 
+application/vnd.palm		 pdb pqa oprc 
+application/vnd.fdf		 fdf 
+image/x-xwindowdump		 xwd 
+chemical/x-jcamp-dx		 jdx dx 
+application/vnd.3gpp2.tcap		 tcap 
+application/msword		 doc dot wiz 
+video/x-flv		 flv 
+text/x-c		 c cc cxx cpp h hh dic 
+application/smil		 smi smil 
+video/vnd.vivo		 viv 
+chemical/x-vmd		 vmd 
+application/epub+zip		 epub 
+application/x-graphing-calculator		 gcf 
+application/vnd.mif		 mif 
+model/vnd.gdl		 gdl 
+application/vnd.ms-excel.sheet.binary.macroenabled.12		 xlsb 
+text/plain		 txt readme 1st dic exc log scp wt text conf def list in asc pot brf 
+application/fractals		 fif 
+application/vnd.shana.informed.interchange		 iif 
+application/wsdl+xml		 wsdl 
+chemical/x-cache		 cac cache 
+chemical/x-macmolecule		 mcm 
+chemical/x-alchemy		 alc 
+application/vnd.stardivision.writer		 sdw vor 
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet		 xlsx 
+chemical/x-genbank		 gen 
+application/vnd.ms-excel.addin.macroenabled.12		 xlam 
+text/x-gzip-html		 html.gz 
+application/x-ruby		 rb 
+application/vnd.fujixerox.docuworks		 xdw 
+application/lost+xml		 lostxml 
+video/x-vdo		 vdo 
+application/vnd.ms-powerpoint.addin.macroenabled.12		 ppam 
+application/vnd.hbci		 hbci 
+application/x-awk		 awk 
+application/vnd.acucobol		 acu 
+image/x-icon		 ico 
+application/vnd.wap.wmlscriptc		 wmlsc 
+chemical/x-ncbi-asn1		 asn 
+video/ogg		 ogv 
+application/vnd.crick.clicker.wordbank		 clkw 
+image/vnd.fastbidsheet		 fbs 
+video/x-sgi-movie		 movie 
+application/java-archive		 jar 
+application/emma+xml		 emma 
+application/x-postscript-font		 pfa pfb gsf 
+application/vnd.kahootz		 ktz ktr 
+application/x-msclip		 clp 
+application/vnd.google-earth.kmz		 kmz 
+application/vnd.oasis.opendocument.spreadsheet		 ods 
+application/x-stuffit		 sit sitx 
+application/vnd.oasis.opendocument.text-template		 ott 
+application/pkcs10		 p10 
+video/annodex		 axv 
+video/vnd.ms-playready.media.pyv		 pyv 
+application/x-shar		 shar 
+application/sparql-results+xml		 srx 
+application/vnd.denovo.fcselayout-link		 fe_launch 
+text/x-dsrc		 d 
+application/cap		 cap pcap 
+application/scvp-cv-request		 scq 
+application/x-zoo		 zoo 
+application/vnd.crick.clicker		 clkx 
+application/vnd.accpac.simply.imp		 imp 
+application/vnd.lotus-1-2-3		 123 wk4 wk3 wk1 
+application/vnd.ipunplugged.rcprofile		 rcprofile 
+application/vnd.shana.informed.package		 ipk 
+application/wordperfect5.1		 wpg 
+application/oda		 oda 

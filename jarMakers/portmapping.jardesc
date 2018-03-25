@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/leo/Dateien/Projekte/Roo/MadeLibs/kangee-portmapping-0.12.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Roo-Core/jarMakers/portmapping.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Roo-Core/src&lt;de.roo.portmapping{ConsolePortMapper.java[ConsolePortMapper" manifestLocation="/Roo-Core/jarMakers/jarPortmapping.manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.http"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.portmapping.upnp"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.portmapping.stun"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.util.filechecking"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.httpcli"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.util.stream"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.portmapping"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.util.server"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.logging{ILog.java"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.util"/>
+        <javaElement handleIdentifier="=Roo-Core/src&lt;de.roo.util.collections"/>
+        <file path="/Roo-Core/LICENSE.txt"/>
+    </selectedElements>
+</jardesc>

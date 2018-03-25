@@ -1,0 +1,122 @@
+
+body, html {
+	height: 100%;
+	font: normal 0.9em/15px Verdana, Arial, Sans-Serif;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #333300;
+	text-decoration: none;
+}
+
+#main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+
+	margin-left: -400px;
+	margin-top: -300px;
+
+}
+
+#kangaroo {
+	position: absolute;
+	
+	top: 0;
+	left: 0;	
+
+}
+
+#filecontainer {
+
+	position: absolute;
+
+	width: 320px;
+	height: 50px;
+	
+	top: 280px;
+	left: 360px;
+  	background-color: #c3f7ff;
+	padding: 10px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 1px 5px 0px #888;
+	-moz-box-shadow: 0px 1px 5px 0px #888;
+	box-shadow: 0px 1px 5px 0px #888;
+
+}
+
+.close {
+	position: absolute;
+	right: 10px;
+	top: 5px;
+}
+
+#footer {
+	background-color: #444;
+	color: #fff;
+	position: absolute;
+	width: 100%;
+	min-width: 500px;
+	height: 20px;
+	margin: 0;
+	bottom: 0px;
+	padding-top: 5px;
+	-webkit-box-shadow: 0 0 5px 0 #000000;
+	-moz-box-shadow: 0 0 5px 0 #000000;
+	box-shadow: 0 0 5px 0 #000000;
+}
+
+#footer a {
+	position: absolute;
+	color: #ddf;
+	right: 20px;
+}
+
+#footer a:hover {
+	color: #eee;
+}
+
+.icon {
+	float: left;
+	border: 0;
+}
+
+#filecontainer a.res {
+	display: block;
+	width: 90%;
+	height: 100%;
+}
+
+#filecontainer a.res:hover {
+	color: #444;
+}
+
+#greeter {
+	top: 20px;
+	text-align: center;
+	width: 50%;
+	min-width: 400px;
+	margin-left: 25%;
+	margin-right: auto;
+	position: absolute;
+	background-color: #777;
+	color: #ffffff;
+	z-index: 1;
+	padding: 5px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	opacity: 0.7;
+	-moz-opacity: 0.7;
+	filter: Alpha(opacity=70);
+}
+
+.desc, .file, .send {
+	margin: 0;	
+}
+

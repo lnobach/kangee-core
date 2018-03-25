@@ -1,0 +1,15 @@
+#
+# List of publicly available STUN servers.
+#
+stun.ekiga.net
+# stun.fwdnet.net #did not work
+stun.ideasip.com
+stun01.sipphone.com
+stun.softjoys.com
+stun.voipbuster.com
+stun.voxgratia.org
+stun.xten.com
+stun.sipgate.net:10000
+numb.viagenie.ca
+stun1.noc.ams-ix.net
+# stun.ipshka.com # did not work, too.
